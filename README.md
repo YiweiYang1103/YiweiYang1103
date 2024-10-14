@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm Yiwei(Eva)</h1>
-<h3 align="center">A passionate graduate student from University of Leeds</h3>
+# Hi 👋, I'm Yiwei (Eva)
 
-- 🔭 I’m currently working on **Climate Analysis in the Yangtze Basin**
+🎓 A passionate graduate student from **University of Leeds**, currently working on **Climate Analysis in the Yangtze Basin**.
 
-- 🌱 I’m currently learning **Tableau**
+🌱 Currently learning **Tableau** and improving my skills in **data analysis**.
 
-- 📫 How to reach me **yiweiyang2022@gmail.com**
+📫 How to reach me: [yiweiyang2022@gmail.com](mailto:yiweiyang2022@gmail.com)
+
+## 📚 Projects
+- [Climate Analysis in the Yangtze Basin](https://github.com/YiweiYang1103/Marketing-Campaign-Optimisation-Using-Machine-Learning) - A deep dive into climate patterns using Iris Package and UNSEEN method.
+  
+- [Marketing Campaign Optimisation With Machine Learning](https://github.com/YiweiYang1103/Marketing-Campaign-Optimisation-Using-Machine-Learning)
+  
+- [Dashboard Project](https://github.com/YiweiYang1103/Dashboard) - Tableau & Excel
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
