@@ -9,9 +9,12 @@
 ## 📚 Projects
 - [Climate Analysis in the Yangtze Basin](https://github.com/YiweiYang1103/Marketing-Campaign-Optimisation-Using-Machine-Learning) - A deep dive into climate patterns using Iris Package and UNSEEN method.
   
-- [Marketing Campaign Optimisation With Machine Learning](https://github.com/YiweiYang1103/Marketing-Campaign-Optimisation-Using-Machine-Learning)
+- [Marketing Campaign Optimisation With Machine Learning](https://github.com/YiweiYang1103/Marketing-Campaign-Optimisation-Using-Machine-Learning) - SQL & Machine Learning
+
+- [Birtish-Airlines-Analysis Project](https://github.com/YiweiYang1103/Birtish-Airlines-Analysis) - Text Analysis & Machine Learning & Dashboard
   
 - [Dashboard Project](https://github.com/YiweiYang1103/Dashboard) - Tableau & Excel
+
 
 
 <h3 align="left">Connect with me:</h3>
