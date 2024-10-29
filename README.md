@@ -7,7 +7,7 @@
 📫 How to reach me: [yiweiyang2022@gmail.com](mailto:yiweiyang2022@gmail.com)
 
 ## 📚 Projects
-- [Climate Analysis in the Yangtze Basin](https://github.com/YiweiYang1103/Marketing-Campaign-Optimisation-Using-Machine-Learning) - A deep dive into climate patterns using Iris Package and UNSEEN method.
+- [Climate Analysis in the Yangtze Basin](https://github.com/YiweiYang1103/Dissertation_Climate)) - A deep dive into climate patterns using Iris Package and UNSEEN method.
   
 - [Marketing Campaign Optimisation With Machine Learning](https://github.com/YiweiYang1103/Marketing-Campaign-Optimisation-Using-Machine-Learning) - SQL & Machine Learning
 
